@@ -8,3 +8,4 @@ venv/
 *.png
 output/
 dist/
+build/
